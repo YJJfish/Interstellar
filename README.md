@@ -19,15 +19,16 @@ Control the space ship:
 
 - Normal Mapping
 
-  <img src="images/image-20221202231954215.png" alt="image-20221202231954215" style="width: 33vw;" />
+  <img src="images/image-20221202231954215.png" alt="image-20221202231954215" style="width: 35vw;" />
 
   Results:
 
   <p>
       <center>
-          <img src="images/image-20221202232531407.png" style="width: 30vw;">
-          <img src="images/image-20221202232635820.png" style="width: 30vw;">
+          <img src="images/image-20221202232531407.png" style="width: 25vw;">
+          <img src="images/image-20221202232635820.png" style="width: 25vw;">
       </center>
+      <br>
       <center><font color="#808080" size=2>Barren planet with (left) and without (right) normal mapping</font></center>
   </p>
 
