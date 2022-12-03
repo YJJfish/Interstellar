@@ -25,7 +25,7 @@ Control the space ship:
 
   <p>
       <center>
-          <img src="images/image-20221202232531407.png" style="width: 30vm;">
+          <img src="images/image-20221202232531407.png" style="width: 30vw;">
           <img src="images/image-20221202232635820.png" style="zoom: 30%;">
       </center>
       <center><font color="#808080" size=2>Barren planet with (left) and without (right) normal mapping</font></center>
