@@ -5,7 +5,7 @@ Course Project of Computer Graphics (浙江大学计算机图形学课程大作�
 
 This is a 3D game based on OpenGL, where the user can control a space ship to travel in the universe to view the scenery of stars, planets and other celestial bodies, and interact with the space stations.
 
-Models and textures are from [Stellaris](https://www.paradoxinteractive.com/games/stellaris/).
+Models and textures are from [Stellaris](https://www.paradoxinteractive.com/games/stellaris/). [Download](https://drive.google.com/file/d/1y_UD9X9rJGYQY0Etfk2Bv6yJDovEarTk/view?usp=share_link)
 
 Control the space ship:
 
