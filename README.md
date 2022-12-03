@@ -19,38 +19,38 @@ Control the space ship:
 
 - Normal Mapping
 
-  <img src="images/image-20221202231954215.png" alt="image-20221202231954215" style="zoom: 33%;" />
+  <img src="images/image-20221202231954215.png" alt="image-20221202231954215" style="width: 33vw;" />
 
   Results:
 
   <p>
       <center>
-          <img src="images/image-20221202232531407.png" style="zoom: 30vw;">
-          <img src="images/image-20221202232635820.png" style="zoom: 30%;">
+          <img src="images/image-20221202232531407.png" style="width: 30vw;">
+          <img src="images/image-20221202232635820.png" style="width: 30vw;">
       </center>
       <center><font color="#808080" size=2>Barren planet with (left) and without (right) normal mapping</font></center>
   </p>
 
   <p>
       <center>
-          <img src="images/image-20221202232929398.png" style="zoom: 30%;">
-          <img src="images/image-20221202232944255.png" style="zoom: 30%;">
+          <img src="images/image-20221202232929398.png" style="width: 30vw;">
+          <img src="images/image-20221202232944255.png" style="width: 30vw;">
       </center>
       <center><font color="#808080" size=2>Arid planet with (left) and without (right) normal mapping</font></center>
   </p>
 
   <p>
       <center>
-          <img src="images/image-20221202233152219.png" style="zoom: 30%;">
-          <img src="images/image-20221202233233339.png" style="zoom: 30%;">
+          <img src="images/image-20221202233152219.png" style="width: 30vw;">
+          <img src="images/image-20221202233233339.png" style="width: 30vw;">
       </center>
       <center><font color="#808080" size=2>Oceanic planet with (left) and without (right) normal mapping</font></center>
   </p>
 
   <p>
       <center>
-          <img src="images/image-20221202233319021.png" style="zoom: 30%;">
-          <img src="images/image-20221202233754749.png" style="zoom: 30%;">
+          <img src="images/image-20221202233319021.png" style="width: 30vw;">
+          <img src="images/image-20221202233754749.png" style="width: 30vw;">
       </center>
       <center><font color="#808080" size=2>Sentry Array with (left) and without (right) normal mapping</font></center>
   </p>
@@ -59,19 +59,19 @@ Control the space ship:
 
   Different locations in the texture have different **reflective properties** and **lighting conditions**.
 
-  <img src="images/image-20221202232146012.png" alt="image-20221202232146012" style="zoom: 50%;" />
+  <img src="images/image-20221202232146012.png" alt="image-20221202232146012" style="width: 50vw;" />
 
   Results:
 
-  <center><img src="images/Pic1.png" style="zoom: 50%;" /></center>
+  <center><img src="images/Pic1.png" style="width: 50vw;" /></center>
 
-  <center><img src="images/image-20221202234118502.png" alt="image-20221202234118502" style="zoom: 33%;" /><img src="images/image-20221202234150218.png" alt="image-20221202234150218" style="zoom: 33%;" /></center>
+  <center><img src="images/image-20221202234118502.png" alt="image-20221202234118502" style="width: 33vw;" /><img src="images/image-20221202234150218.png" alt="image-20221202234150218" style="width: 33vw;" /></center>
 
 - Particles
 
   We use particles to render stars more vividly:
 
-  <center><img src="images/image-20221202234609867.png" style="zoom: 60%;"><img src="images/image-20221202234729695.png" style="zoom: 38%;"></center>
+  <center><img src="images/image-20221202234609867.png" style="width: 60vw;"><img src="images/image-20221202234729695.png" style="width: 38vw;"></center>
 
 - Light Attenuation
 
@@ -81,24 +81,24 @@ Control the space ship:
 
   We use tiles to model the geometry of the terrain.
 
-  <img src="images/image-20221202235109746.png" alt="image-20221202235109746" style="zoom: 25%;" />
+  <img src="images/image-20221202235109746.png" alt="image-20221202235109746" style="width: 25vw;" />
 
   Then we developed an algorithm based on Perlin noise to generate random terrain.
 
   Results:
 
-  <img src="images/image-20221202235529301.png" alt="image-20221202235529301" style="zoom: 25%;" />
+  <img src="images/image-20221202235529301.png" alt="image-20221202235529301" style="width: 25vw;" />
 
 - Collision Detection
 
   We use *AABB* method for collision detection.
 
-  <img src="images/image-20221202235705109.png" alt="image-20221202235705109" style="zoom:33%;" />
+  <img src="images/image-20221202235705109.png" alt="image-20221202235705109" style="width: 33vw;" />
 
 ## Screenshot
 
-<img src="images/Screenshot1.png" alt="Screenshot1" style="zoom: 67%;" />
+<img src="images/Screenshot1.png" alt="Screenshot1" style="width: 67vw;" />
 
-<img src="images/image-20221203000113101.png" alt="image-20221203000113101" style="zoom: 50%;" />
+<img src="images/image-20221203000113101.png" alt="image-20221203000113101" style="width: 50vw;" />
 
-<img src="images/image-20221203000318462.png" alt="image-20221203000318462" style="zoom:53%;" />
+<img src="images/image-20221203000318462.png" alt="image-20221203000318462" style="width: 53vw;" />
