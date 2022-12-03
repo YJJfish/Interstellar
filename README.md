@@ -34,25 +34,28 @@ Control the space ship:
 
   <p>
       <center>
-          <img src="images/image-20221202232929398.png" style="width: 30vw;">
-          <img src="images/image-20221202232944255.png" style="width: 30vw;">
+          <img src="images/image-20221202232929398.png" style="width: 25vw;">
+          <img src="images/image-20221202232944255.png" style="width: 25vw;">
       </center>
+      <br>
       <center><font color="#808080" size=2>Arid planet with (left) and without (right) normal mapping</font></center>
   </p>
 
   <p>
       <center>
-          <img src="images/image-20221202233152219.png" style="width: 30vw;">
-          <img src="images/image-20221202233233339.png" style="width: 30vw;">
+          <img src="images/image-20221202233152219.png" style="width: 25vw;">
+          <img src="images/image-20221202233233339.png" style="width: 25vw;">
       </center>
+      <br>
       <center><font color="#808080" size=2>Oceanic planet with (left) and without (right) normal mapping</font></center>
   </p>
 
   <p>
       <center>
-          <img src="images/image-20221202233319021.png" style="width: 30vw;">
-          <img src="images/image-20221202233754749.png" style="width: 30vw;">
+          <img src="images/image-20221202233319021.png" style="width: 25vw;">
+          <img src="images/image-20221202233754749.png" style="width: 25vw;">
       </center>
+      <br>
       <center><font color="#808080" size=2>Sentry Array with (left) and without (right) normal mapping</font></center>
   </p>
 
@@ -60,19 +63,19 @@ Control the space ship:
 
   Different locations in the texture have different **reflective properties** and **lighting conditions**.
 
-  <img src="images/image-20221202232146012.png" alt="image-20221202232146012" style="width: 50vw;" />
+  <img src="images/image-20221202232146012.png" alt="image-20221202232146012" style="width: 30vw;" />
 
   Results:
 
   <center><img src="images/Pic1.png" style="width: 50vw;" /></center>
 
-  <center><img src="images/image-20221202234118502.png" alt="image-20221202234118502" style="width: 33vw;" /><img src="images/image-20221202234150218.png" alt="image-20221202234150218" style="width: 33vw;" /></center>
+  <center><img src="images/image-20221202234118502.png" alt="image-20221202234118502" style="width: 25vw;" /><img src="images/image-20221202234150218.png" alt="image-20221202234150218" style="width: 25vw;" /></center>
 
 - Particles
 
   We use particles to render stars more vividly:
 
-  <center><img src="images/image-20221202234609867.png" style="width: 60vw;"><img src="images/image-20221202234729695.png" style="width: 38vw;"></center>
+  <center><img src="images/image-20221202234609867.png" style="width: 40vw;"><img src="images/image-20221202234729695.png" style="width: 38vw;"></center>
 
 - Light Attenuation
 
